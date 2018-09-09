@@ -1,0 +1,49 @@
+.icon {
+    display: inline-block;
+    margin: 0px;
+    height: 20px;
+    width: 20px;
+    background-color: #ccc;
+
+}
+
+/* ICONS */
+.icon-animal {
+    background: url('/img/animal.png') center center no-repeat;
+}
+
+.icon-art {
+    background: url('/img/art.png') center center no-repeat;
+}
+
+.icon-comment {
+    background: url('/img/comment.png') center center no-repeat;
+}
+
+.icon-fountain {
+    background: url('/img/fountain.png') center center no-repeat;
+}
+
+.icon-hazard {
+    background: url('/img/hazard.png') center center no-repeat;
+}
+
+.icon-parking {
+    background: url('/img/parking.png') center center no-repeat;
+}
+
+.icon-playground {
+    background: url('/img/playground.png') center center no-repeat;
+}
+
+.icon-question {
+    background: url('/img/question.png') center center no-repeat;
+}
+
+.icon-toilet {
+    background: url('/img/toilets.png') center center no-repeat;
+}
+
+.icon-heat {
+    background: url('/img/heat.png') center center no-repeat;
+}

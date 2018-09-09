@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxR0XcVZPh0y2FwzHetPfswAAAAACAAAAAAADZgAAwAAAABAAAABC1Z9FHWGCRalvf41k9bwwAAAAAASAAACgAAAAEAAAAOZXhCMgq74+Mec1B1G+ZIiAAAAAH+P+2jpHeSnjJjnYIYTPREMQgXo/+bByZjKszU3RGOMDK9WQCt3ATnHtFOq8vGaqxqYs1MmHpkiSeGFb5cFSPqfmmyqWtoohFoMf/AbumYS/KDM9S5X0dkXYXB9Z6FaSfUDtmT//yJM4EqlMFoLvj67AfyTxtpH9cHFks79Km8UUAAAAELIdcR0dRX6pChJ8aRyp7dl2Vus=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Connection/MySqlConnection.php">
+      <publishTime>08/18/2018 09:52:06</publishTime>
+    </File>
+    <File Include="Formatting/MakeTable.php">
+      <publishTime>08/18/2018 09:31:35</publishTime>
+    </File>
+    <File Include="index.php">
+      <publishTime>08/19/2018 05:23:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

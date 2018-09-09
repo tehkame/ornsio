@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcqc9LocHR0mXaTWxmlgRVgAAAAACAAAAAAAQZgAAAAEAACAAAADqaMojwOqbnYS7G1bAc1G0sSox7t17peZU2nSUe0MaYgAAAAAOgAAAAAIAACAAAACJxWw1To5JcWfV0zWU9fsvetn3EraK59nkkClIkDtWACAAAADjNrmK25xlS0TyBiNVj10WwrjLTvqO7TXPl+FtEJ3GLEAAAADyfcMbrppCq1oz7s4eeGVbYb969ntYnOsrnAPiATIs2i4zPiigh20B36nZdNWcP+CnHCtX4+LeyeTy7Mjc4NXB</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="addcomment.php">
+      <publishTime>09/09/2018 05:49:34</publishTime>
+    </File>
+    <File Include="addobs.php">
+      <publishTime>09/09/2018 04:08:47</publishTime>
+    </File>
+    <File Include="addobservation.php">
+      <publishTime>09/09/2018 06:48:43</publishTime>
+    </File>
+    <File Include="bar.js">
+      <publishTime>09/08/2018 07:27:51</publishTime>
+    </File>
+    <File Include="body.php">
+      <publishTime>09/07/2018 18:12:34</publishTime>
+    </File>
+    <File Include="bootstrap-theme.min.css">
+      <publishTime>09/08/2018 04:23:36</publishTime>
+    </File>
+    <File Include="Class1.php">
+      <publishTime>09/08/2018 11:48:13</publishTime>
+    </File>
+    <File Include="closewindow.php">
+      <publishTime>09/09/2018 06:48:43</publishTime>
+    </File>
+    <File Include="commentpanel.php">
+      <publishTime>09/09/2018 05:33:36</publishTime>
+    </File>
+    <File Include="commentpanel2.php">
+      <publishTime>09/09/2018 05:33:49</publishTime>
+    </File>
+    <File Include="Connection/MySqlConnection.php">
+      <publishTime>09/09/2018 05:32:25</publishTime>
+    </File>
+    <File Include="drinking_water.js">
+      <publishTime>09/08/2018 07:28:16</publishTime>
+    </File>
+    <File Include="footer.php">
+      <publishTime>09/06/2018 11:52:15</publishTime>
+    </File>
+    <File Include="Formatting/MakeTable.php">
+      <publishTime>09/09/2018 03:09:22</publishTime>
+    </File>
+    <File Include="Formatting/Map.php">
+      <publishTime>09/09/2018 06:53:51</publishTime>
+    </File>
+    <File Include="Formatting/Panel.php">
+      <publishTime>09/07/2018 16:02:33</publishTime>
+    </File>
+    <File Include="Formatting/ReverseAddress.php">
+      <publishTime>09/09/2018 03:38:36</publishTime>
+    </File>
+    <File Include="getimage.php">
+      <publishTime>09/08/2018 07:41:46</publishTime>
+    </File>
+    <File Include="header.php">
+      <publishTime>09/09/2018 03:21:00</publishTime>
+    </File>
+    <File Include="icons.css">
+      <publishTime>09/09/2018 00:33:54</publishTime>
+    </File>
+    <File Include="img/animal.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/art.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/comment.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/fountain.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/hazard.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/heat.png">
+      <publishTime>09/08/2018 17:37:56</publishTime>
+    </File>
+    <File Include="img/parking.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/playground.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/question.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="img/toilets.png">
+      <publishTime>09/08/2018 10:16:03</publishTime>
+    </File>
+    <File Include="index.php">
+      <publishTime>09/09/2018 06:48:43</publishTime>
+    </File>
+    <File Include="leaflet-ant-path.js">
+      <publishTime>09/06/2018 12:10:03</publishTime>
+    </File>
+    <File Include="leaflet-heat.js">
+      <publishTime>09/09/2018 03:17:41</publishTime>
+    </File>
+    <File Include="leaflet-panel-layers.css">
+      <publishTime>09/08/2018 07:05:48</publishTime>
+    </File>
+    <File Include="leaflet-panel-layers.js">
+      <publishTime>09/08/2018 07:06:16</publishTime>
+    </File>
+    <File Include="myjs.js">
+      <publishTime>09/09/2018 03:20:46</publishTime>
+    </File>
+    <File Include="pointview.php">
+      <publishTime>09/09/2018 05:45:27</publishTime>
+    </File>
+    <File Include="rodents.geojson">
+      <publishTime>09/08/2018 06:00:44</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>09/08/2018 07:30:39</publishTime>
+    </File>
+    <File Include="test.html">
+      <publishTime>09/07/2018 18:19:43</publishTime>
+    </File>
+    <File Include="welcome.php">
+      <publishTime>09/09/2018 06:02:46</publishTime>
+    </File>
+    <File Include="whatever.html">
+      <publishTime>09/06/2018 13:29:18</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="panels" />
+  </ItemGroup>
+</Project>

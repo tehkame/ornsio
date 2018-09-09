@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "MainPHPProject", "..\..\..\..\..\..\Users\julian.kruup\Source\Repos\KruupPHP\MainPHPProject\MainPHPProject\MainPHPProject.phpproj", "{9C208399-8B35-4B86-B046-E2A32B179210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C208399-8B35-4B86-B046-E2A32B179210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C208399-8B35-4B86-B046-E2A32B179210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DFDCEB-292D-49DD-BE2B-CDC904C402A6}
+	EndGlobalSection
+EndGlobal
